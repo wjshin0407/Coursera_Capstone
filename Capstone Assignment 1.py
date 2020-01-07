@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# This notebook will be used mainly for the capstone project
+# This notebook will be used mainly for the capstone project.
 
 # In[1]:
 
